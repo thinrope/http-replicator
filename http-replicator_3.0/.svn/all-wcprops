@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/http-replicator/!svn/ver/9/branches/3.0
+END
+http-replicator.1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/http-replicator.1
+END
+http-replicator
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/http-replicator
+END
+http-replicator_maintenance.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/http-replicator_maintenance.1
+END
+http-replicator_maintenance
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/http-replicator_maintenance
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/README
+END

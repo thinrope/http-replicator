@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/control
+END
+cron.weekly
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/cron.weekly
+END
+logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/logrotate
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/compat
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/init
+END
+default
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/default
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/copyright
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/docs
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/rules
+END
+manpages
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/manpages
+END
+examples
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/http-replicator/!svn/ver/9/branches/3.0/debian/examples
+END
